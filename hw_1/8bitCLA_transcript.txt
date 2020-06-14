@@ -1,0 +1,18 @@
+# Compile of CLA8Top.sv was successful with warnings.
+# Compile of test.sv was successful.
+# 2 compiles, 0 failed with no errors.
+quit -sim
+# End time: 22:36:05 on Apr 21,2020, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 9
+# Compile of CLA8Top.sv was successful with warnings.
+# Compile of test.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.CLA8Top
+# vsim -gui work.CLA8Top 
+# Start time: 22:36:18 on Apr 21,2020
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Loading sv_std.std
+# Loading work.CLA8Top(fast)
+run -all
+# ***Congratulations, No errors found after      131072 tests***

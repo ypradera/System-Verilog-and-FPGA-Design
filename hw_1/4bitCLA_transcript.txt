@@ -1,0 +1,146 @@
+# Reading C:/questasim64_10.4e/tcl/vsim/pref.tcl
+# //  Questa Sim-64
+# //  Version 10.4e win64 Apr  9 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading project quiz2
+# reading C:/questasim64_10.4e/win64/../modelsim.ini
+# Loading project HW2.1
+# Load canceled
+# Compile of tb_hw2_prob1.sv failed with 2 errors.
+# Compile of hw2_prob1.sv was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv failed with 5 errors.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 2 failed with 6 errors.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv failed with 1 errors.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 2 failed with 2 errors.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/hw2_prob2.sv' doesn't exist.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv failed with 5 errors.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 2 failed with 6 errors.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Compile of tb_hw2_prob1.sv failed with 1 errors.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Error opening C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv
+# Path name 'C:/questasim64_10.4e/examples/(vlog-13069) C:/questasim64_10.4e/examples/tb_hw2_prob1.sv' doesn't exist.
+# Compile of tb_hw2_prob1.sv was successful.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv was successful.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of tb_hw2_prob1.sv was successful.
+# Compile of hw2_prob1.sv was successful.
+# Compile of hw2_prob2.sv failed with 1 errors.
+# Compile of tb_hw2_prob2.sv was successful.
+# 4 compiles, 1 failed with 1 error.
