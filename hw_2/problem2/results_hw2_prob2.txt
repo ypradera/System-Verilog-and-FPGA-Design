@@ -1,0 +1,74 @@
+vsim -gui work.hw2_prob2_Top
+# vsim -gui work.hw2_prob2_Top 
+# Start time: 18:47:58 on May 04,2020
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading sv_std.std
+# Loading work.hw2_prob2_Top(fast)
+run -all
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 0 :: outputs: y_out = z
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 0, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 1
+# For inputs: x_in1 = 1, x_in2 = 0, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 0, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 0, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 0, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 0, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+# For inputs: x_in1 = 1, x_in2 = 1, x_in3 = 1, x_in4 = 1, x_in5 = 1, enable = 1 :: outputs: y_out = 0
+
+
